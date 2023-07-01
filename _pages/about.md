@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-<p>I am a accountant that specialize in supporting financial planning and analysis bu using :<p> 
+<p>I am a accountant that specialise in supporting financial planning and analysis by using :<p> 
 <ul>
 <li>MS-Excel - Pivot Tables, VBA and Dynamic Arrays </li>
 <li>PowerQuery and M Langunage</li>
