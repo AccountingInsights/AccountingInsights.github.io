@@ -6,19 +6,29 @@ tags:
   - Power BI
 ---
 
-<p style="text-align:center;"><img src="/assets/images/Private_Health_Fund_Participation_Rates.jpg" alt="Image of Dashboard" width="500" height="600"></p>
+<p style="text-align:center;">
+<a href="http://bit.ly/2Da9AdI">
+<img src="/assets/images/Private_Health_Fund_Participation_Rates.jpg" alt="Image of Dashboard" width="500" height="600">
+</a>
+</p>
 
 <h2>Overview</h2>
 
-Power BI visualuation of the APRA March 2023 Private Health Fund Memberhship.
+Power BI visualuation of the APRA March 2023 Private Health Fund Membership by :
 - Insured Persons
 - Australian Population
 - Growth and Participation Rates
 
 <h2>Design</h2>
 
-PowerBI Components
-- Bookmark Navigator, Shape Map, Matrix Visual, Slicers, Custom Tooltips, DAX for semi-addative measures
+<ul>
+  <li><b>Visuals</b> : Bookmark Navigator, Shape Map, Matrix Visual, Slicer</li>
+  <li><b>DAX :</b> Semi-addative measures, Year-on-Year Time intelligence</li>
+  <li><b>Tips and Tricks :</b> Icons in Page Name, Use of Tooltip Page , Show values in row groups rather than colums for the Matrix Visual.</li>
+</ul>
+
+
+
 
 <h2>References</h2>
 
